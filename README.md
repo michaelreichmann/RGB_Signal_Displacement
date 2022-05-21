@@ -10,4 +10,4 @@ The controls are:<br/>
 **amplitude** of the signal<br/>
 
 The result looks like this:<br/>
-![Resulting image](/gif/RGB-Signal-Displacement.gif)
+![Resulting image](/picture/RGB-Signal-Displacement.png)
